@@ -1,5 +1,5 @@
 // store modules
-import auth from '@/auth/_store';
+import auth from './auth/_store';
 import tree from './store/tree/store';
 import modal from './store/modal/store';
 import settings from './store/settings/store';
